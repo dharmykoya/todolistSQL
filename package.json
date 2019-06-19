@@ -1,0 +1,21 @@
+{
+  "name": "backendlvl",
+  "version": "1.0.0",
+  "description": "Leveling up on sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "sequelize"
+  ],
+  "author": "Damilola Adekoya",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.8.10",
+    "sequelize-cli": "^5.5.0"
+  }
+}
